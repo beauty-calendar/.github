@@ -1,19 +1,25 @@
 # Beauty Calendar
 
-**Beauty Calendar** is a modern operating system for beauty salons.
+**Beauty Calendar** is a salon management platform for beauty teams in Ukraine.
 
-We build tools that help salon teams handle appointments, clients, masters, reminders, payments, and everyday service workflows in one place.
-
-Our goal is simple: make salon operations calmer, faster, and easier to manage.
+We help salons organize bookings, clients, masters, reminders, service payments, and daily operations in one calm workspace.
 
 ## Platform
 
 - Online booking for salons and beauty specialists
-- Client and appointment management
-- Salon team workflows
-- Automated reminders and notifications
-- Service payments and billing tools
-- Mobile-ready salon operations
+- Client, master, and appointment management
+- Salon admin and master dashboards
+- Automated reminders by email, SMS, Telegram, and push notifications
+- Service payment and prepayment workflows
+- Public salon and master profiles
+- Web, PWA, iOS, and Android access
+
+## Built For
+
+- Beauty salons
+- Salon administrators
+- Masters and service specialists
+- Clients booking beauty services
 
 ## Links
 
