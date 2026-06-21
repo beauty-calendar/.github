@@ -7,7 +7,7 @@ We help salons organize bookings, clients, masters, reminders, service payments,
 - Online booking for salons and beauty specialists
 - Client, master, and appointment management
 - Salon admin and master dashboards
-- Automated reminders by email, SMS, Telegram, and push notifications
+- Automated reminders by email, SMS and push notifications
 - Service payment and prepayment workflows
 - Public salon and master profiles
 - Web, PWA, iOS, and Android access
